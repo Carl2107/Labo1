@@ -1,0 +1,15 @@
+{
+	"name": "df-ucb-par1-13895500",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78d1d9c8-b216-4ed2-a0d9-7eac4ff8962f",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
