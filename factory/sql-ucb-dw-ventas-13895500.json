@@ -1,0 +1,15 @@
+{
+	"name": "sql-ucb-dw-ventas-13895500",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f428e9c4-bbe2-4c32-9bce-2816689dd841",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
